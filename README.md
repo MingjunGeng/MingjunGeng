@@ -1,5 +1,6 @@
-<img src="./image/0_Banner-mingjun.jpeg" />
-## Hello World 🌎
+<img src="https://user-images.githubusercontent.com/7962407/159135717-d4b6961a-b870-467c-b1f3-2faafdbf855b.jpeg" />
+## Hello World 🌎!
+
 
 - 💻 I'm  Mingjun GENG & I am a Full Stack Web Developer. 
 - 🤟 I am a former electronics engineer oversea. 
