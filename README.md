@@ -4,7 +4,7 @@
 
 - 💻 I'm  Mingjun GENG & I am a Full Stack Web Developer. 
 - 🤟 I am a former electronics engineer oversea. 
-- 🔗 Connect with me on <a href="https://www.linkedin.com/in/mingjungeng/" target="_blank">LinkedIn</a>
+- 🔗 Connect with me on <a href="https://www.linkedin.com/in/mjgeng/" target="_blank">LinkedIn</a>
 - 📧 Email me at <a href="sooofeve@gmail.com" target="_blank">sooofeve@gmail.com</a>
 
 ## Languages & Tools 🛠
