@@ -5,7 +5,6 @@
 ## Below are the links to my profiles....
 
 - [Porfolio](https://mingjungeng.github.io/)
-- [Code-Knowledge](https://mingjungeng.github.io/Code-Knowledge/)
 
 ## More about me....
 
