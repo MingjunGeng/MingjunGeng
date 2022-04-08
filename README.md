@@ -5,12 +5,12 @@
 ## Below are the links to my profiles....
 
 - [Porfolio](https://mingjungeng.github.io/)
+- [Linkiedn](https://www.linkedin.com/in/mjgeng/)
 
 ## More about me....
 
 - 💻 I'm  Mingjun GENG & I am a Full Stack Web Developer, and an electronics engineer  before. 
 - 🤟 I have started my career as a software assistant engineer at Huawei China, then transfer my job to be an IC design system engineer, I do like the lower physical layer technology. 
-- 🔗 Connect with me on <a href="https://www.linkedin.com/in/mjgeng/" target="_blank">LinkedIn</a>
 - 📧 Email me at <a href="sooofeve@gmail.com" target="_blank">sooofeve@gmail.com</a>
 
 ## Languages & Tools 🛠
